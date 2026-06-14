@@ -1,9 +1,8 @@
-# Linux_Task_03_Meghana
-# Linux Task 03 – Process Management, System Monitoring & Basic Shell Scripting
+# Linux_Task_03_Meghana Process Management, System Monitoring & Basic Shell Scripting
 
 ## Name
 
-Stephen J
+Meghana S
 
 ## Date
 
